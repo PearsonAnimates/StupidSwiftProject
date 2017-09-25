@@ -2,4 +2,6 @@
 
 import UIKit
 
-var str = "Hello, playground"
+var myStupid :String
+var otherStupid = "Stupid"
+var thisStupid :String = "Next Stupid"
